@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Text comahas
 
 Edit texxttt
 
 Add 1 line so
+=======
+Text comahas
+>>>>>>> parent of 0279436... Update Demo.txt
