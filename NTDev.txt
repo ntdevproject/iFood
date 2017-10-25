@@ -4,4 +4,7 @@ This is change at 11:45 PM
 
 Add 1 line
 
+
+Đồng bộ từ github xuống local
+
 Đồng bộ từ github xuống local
